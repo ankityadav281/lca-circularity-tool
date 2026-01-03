@@ -37,5 +37,4 @@ lca-circularity-tool/
 │
 ├── frontend/
 ├── backend/
-├── README.md
-└── _config.yml
+└── README.md
